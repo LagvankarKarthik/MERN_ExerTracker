@@ -1,0 +1,5 @@
+We will use the axios library to send the http rewuest to our back end.
+
+In the terminal we will install axios by typing npm install axios
+
+Make sure to start the server before adding the user or exercise
